@@ -21,8 +21,8 @@
                             <DoubleAnimationUsingKeyFrames
                                 Storyboard.TargetProperty="(Canvas.Top)"
                                 Duration="0:0:6"
-                                AccelerationRatio="0.5"
                                 DecelerationRatio="0.5"
+                                AccelerationRatio="0.5"
                                 RepeatBehavior="Forever">
                                 <LinearDoubleKeyFrame KeyTime="0" Value="300"/>
                                 <LinearDoubleKeyFrame KeyTime="50%" Value="150"/>
@@ -35,8 +35,8 @@
                             <DoubleAnimationUsingKeyFrames
                                 Storyboard.TargetProperty="(Canvas.Left)"
                                 Duration="0:0:6"
-                                AccelerationRatio="0.5"
                                 DecelerationRatio="0.5"
+                                AccelerationRatio="0.5"
                                 RepeatBehavior="Forever">
                                 <LinearDoubleKeyFrame KeyTime="0" Value="110"/>
                                 <LinearDoubleKeyFrame KeyTime="50" Value="110"/>
